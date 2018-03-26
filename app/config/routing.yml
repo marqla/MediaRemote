@@ -1,0 +1,5 @@
+media_remote:
+    resource: "@MediaRemoteBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
